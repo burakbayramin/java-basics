@@ -1,0 +1,7 @@
+Workout Program
+Deadlift number: 2
+Bench Press number: 2
+Squat number: 2
+1Process ---->  Exercise: deadlift Reps: 2
+2Process ---->  Exercise: bench Reps: 2
+3Process ---->  Exercise: squat Reps: 2
